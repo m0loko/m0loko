@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @m0loko
+- 👀 I'm interested in programming
+- 🌱 I am currently learning: c++, html, css, js, json
+- 📫 How to contact me: mail or instagram 
+- ⚡ Interesting fact: no interesting facts

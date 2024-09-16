@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/do6edah" target="_blank">m0loko</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <p align="center">
-     <img width="600" src="assets/github-snake.svg" alt="snake"/>
+     <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
     </p>
     
   ## About me

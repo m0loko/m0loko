@@ -14,8 +14,6 @@
  
  🔭 I am currently a <a href="https://it.belstu.by/" >computer science student at BSTU University</a> (Minsk)
  
- 🌱 I’m currently learning **C++, HTML, CSS**
-
  ⚡ I am just starting to learn the interesting world of IT and here **I will post all my stages of learning**
  </div>
  <div align="center"> 
